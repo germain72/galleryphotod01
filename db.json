@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "UserPhoto": [
+    {
+      "filepath": "1656406296897.jpeg",
+      "webviewPath": "blob:http://localhost:8100/4694ea7b-ad48-4e5f-8caf-7e2247e2cecc",
+      "id": 1
+    }
+  ]
+}
